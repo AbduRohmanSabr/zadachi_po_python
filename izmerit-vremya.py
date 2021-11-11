@@ -9,4 +9,4 @@ for i in range(1,5000):
     print(i)
 etime = time.time()
 ttime = etime - stime
-print("Vaqt",ttime)
+print("время",ttime)
